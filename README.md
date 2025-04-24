@@ -39,6 +39,7 @@ A list of Open Source communities in Africa
 - [Python Ghana](https://www.pythonghana.org/)
 - [Python Niger](https://twitter.com/PythonNiger) 🇳🇪
 - [Python Nigeria](https://twitter.com/PythonNigeria) 🇳🇬
+- [Python Togo](https://www.pytogo.org/) 🇹🇬
 
 ## Pan-African Communities
 
